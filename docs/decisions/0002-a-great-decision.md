@@ -42,7 +42,3 @@ shell conversion
 
 * Good, because this and that
 * Bad, because that too
-
-## Unexpected section of the document
-
-it is totally unexpected!
